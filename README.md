@@ -44,26 +44,7 @@ dotnet run
 - Hold the button to start the macro; release to stop.
 
 ## Example:
-```bash
-This is a open source free use project.
-
-Discord = fenix.wow
-
-Starting Controller Macro...
-
-Controller found!
-
-Press the button you would like to macro.
-Button pressed: LeftThumb
-Is this what you would like to macro? Y/N
-Y
-How fast would you like this button to be macro'd? (In ms)
-100
-Done! Press and hold this button to start the macro. Release to stop.
-Macro started.
-Macro action performed.
-Macro ended and pressed 1 times.
-```
+![Screenshot](./Screenshot%202024-12-11%20161652.png)
 
 ### 5. Exit
 Close the console or press `Ctrl + C` to exit.
